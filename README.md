@@ -1,4 +1,3 @@
-<img width="1138" height="530" alt="image" src="https://github.com/user-attachments/assets/ba9443d6-5f3b-44d4-9f8f-ea775effdecc" /><div align="center">
 <h1> ChartE$^{3}$: A Comprehensive Benchmark for End-to-End Chart Editing
  </h1>
 </div>

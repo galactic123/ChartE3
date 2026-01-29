@@ -10,11 +10,11 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9.0-blue.svg)
 </div>
 
-<!-- <div align="center">
+ <div align="center">
   <!-- <a href="#model">Model</a> • -->
-  📚 <a href="https://huggingface.co/datasets/Colinyyy/ChartM3">Data</a> |
-  📃 <a href="https://arxiv.org/abs/2507.21167">Paper</a>
-</div> -->
+  <!-- 📚 <a href="https://huggingface.co/datasets/Colinyyy/ChartM3">Data</a> |
+  📃 <a href="https://arxiv.org/abs/2507.21167">Paper</a> -->
+</div> 
 
 ## 🎉 What's New
 

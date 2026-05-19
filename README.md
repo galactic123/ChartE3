@@ -11,13 +11,13 @@
 
  <div align="center">
   <!-- <a href="#model">Model</a> • -->
-  📚 <a href="https://huggingface.co/datasets/lishuo123/ChartE3/tree/main">Data</a> |
-  <!-- 📃 <a href="https://arxiv.org/abs/2507.21167">Paper</a> -->
+  📚 <a href="https://huggingface.co/datasets/lishuo123/ChartE3">Data</a> |
+  📃 <a href="https://arxiv.org/abs/2601.21694">Paper</a>
 </div> 
 
 ## 🎉 What's New
 
-- **[2026.05.20]** We open-source the benchmark in huggingface.
+- **[2026.05.20]** We open-source the benchmark in [huggingface](https://huggingface.co/datasets/lishuo123/ChartE3).
 - **[2026.01.29]** We created the project on github.
 
 

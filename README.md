@@ -30,7 +30,40 @@ ChartE$^{3}$ contains over 1,200 high-quality samples constructed via a well-des
 <img width="1138" height="530" alt="image" src="https://github.com/user-attachments/assets/9caf9aa3-0c7d-4fca-81fd-270c5c0de1d5" />
 
 ## 🚀 Quick Start
-Our Benchmark will be published soon.
+下面是一段适合放在 GitHub README 中的 **Quick Start**：
 
+## Quick Start
+
+Each example in our benchmark contains three components:
+
+* **Instruction**: the text prompt describing the desired image editing operation.
+* **Origin Image**: the original input image before editing.
+* **Reference Image**: the ground-truth edited image used for evaluation.
+
+Given an instruction and a source image, an image editing model generates an edited result, which can then be evaluated against the reference image.
+
+### Evaluation
+
+We provide [example scripts](https://huggingface.co/datasets/lishuo123/ChartE3) for both objective and GPT-based evaluation:
+
+* **Objective Metrics**: `example_objective_eval.py`
+* **GPT-based Evaluation**: `example_gpt_eval.py`
+
+To evaluate your generated images, first organize the outputs according to the benchmark format, and then run the corresponding evaluation script.
+
+Please refer to the comments in the example scripts for detailed configuration options and supported evaluation metrics.
+
+### Data Format
+
+A typical benchmark sample is organized as follows:
+
+```text
+sample/
+├── instruction.json      # editing instruction
+├── origin_image.jpg           # original image
+└── edit_image.jpg        # reference edited image
+```
+
+Your model should take `instruction.json` and `edit_image.jpg` as input and produce an edited image. The generated result can then be compared with `edit_image.jpg` using the provided evaluation scripts.
 
 

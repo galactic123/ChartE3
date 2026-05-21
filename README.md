@@ -30,10 +30,6 @@ ChartE$^{3}$ contains over 1,200 high-quality samples constructed via a well-des
 <img width="1138" height="530" alt="image" src="https://github.com/user-attachments/assets/9caf9aa3-0c7d-4fca-81fd-270c5c0de1d5" />
 
 ## 🚀 Quick Start
-下面是一段适合放在 GitHub README 中的 **Quick Start**：
-
-## Quick Start
-
 Each example in our benchmark contains three components:
 
 * **Instruction**: the text prompt describing the desired image editing operation.
